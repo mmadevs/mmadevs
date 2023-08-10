@@ -1,16 +1,18 @@
-### Hi there 👋
+### MMA Devs
+**Soluções em tecnologia**
 
-<!--
-**mmadevs/mmadevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - Web sites
+   > Sites bonitos, performáticos e responsivos para sua empresa.
+ - Web apps
+   > Aplicações em nuvem que rodam em qualquer lugar através de um navegador
+ - Mobile apps
+   > Aplicativos para IOS e Android
+ - Consultoria
+   > Especialistas que podem alavancar o crescimento tecnológico da sua empresa!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sócios:
+<div style="display:flex;">
+  <img style="width=16px;" src="https://avatars.githubusercontent.com/matheusdearaujo" />
+<img src="https://avatars.githubusercontent.com/matthns" />
+<img src="https://avatars.githubusercontent.com/anthonyvictor" />
+</div>
