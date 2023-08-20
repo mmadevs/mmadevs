@@ -12,7 +12,7 @@
 
 ### Sócios:
 <div style="display:flex;">
-<img style="width=16px; border-radius:100%;" src="https://avatars.githubusercontent.com/matheusdearaujo" />
+<img style="width=16px; border-radius:50%;" src="https://avatars.githubusercontent.com/matheusdearaujo" />
 <img src="https://avatars.githubusercontent.com/matthns" />
 <img src="https://avatars.githubusercontent.com/anthonyvictor" />
 </div>
